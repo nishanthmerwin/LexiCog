@@ -1,0 +1,28 @@
+I'm not 100% sure who was in which groups.. feel free to correct me!
+
+email_API
+- 
+
+
+stats
+- Jonathan
+- Stanley
+- Bilal
+- Graeme
+
+
+data_visualization
+- Lauren
+- Eric
+- Tash
+
+
+Graphic design
+- Tyler
+- Winfield
+- Diego
+
+
+App development
+- Andrew
+- Matt
