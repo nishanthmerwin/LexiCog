@@ -1,31 +1,34 @@
 I'm not 100% sure who was in which groups.. feel free to correct me!
 
-email_API
+email_API - SWETALI
 - Ali
 - Dave (?)
 - Swetali (?)
 - Doris (?)
 
 
-stats
+stats - BILAL
 - Jonathan
 - Stanley
 - Bilal
 - Graeme
+- Mandhir
 
 
-data_visualization
+data_visualization - LAUREN
 - Lauren
 - Eric
 - Tash
 
 
-Graphic design
+Graphic design - WINFIELD
 - Tyler
 - Winfield
 - Diego
 
 
-App development
+App development - ANDREW
 - Andrew
 - Matt
+- Ekatarina
+- Maria
