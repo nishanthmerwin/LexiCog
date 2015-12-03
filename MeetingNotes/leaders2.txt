@@ -1,0 +1,40 @@
+Group Leaders Meeting - 
+December 2nd
+All present
+
+
+
+Swetali
+- starting after Christmas
+- Data flow diagram
+- ERD
+- Going to work on it in January
+
+Bilal
+- Finish research so that they know what to code for
+
+
+Winfield
+- Start during the break
+- Logo and initial mockup
+- Research into material design
+- Set deadline with group
+
+
+Andrew
+- Creating a simple app with a button
+- Implement UI created by graphic design
+- Rough deadline for New Year for the prototype
+
+Lauren
+- Work with stats group
+- Create graphs with R
+
+
+Nishanth
+- System Administrator
+
+
+Mext meetomg after New Years
+
+
