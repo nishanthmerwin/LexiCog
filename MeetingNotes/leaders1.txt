@@ -1,0 +1,36 @@
+Group Leaders Meeting - 
+November 25th
+All present
+
+
+Plans for next week:
+- Each group leader holds meeting with group early next week about goals and timelines
+- Final decision about timeline is decided amongst group leaders Thursday December 3rd
+
+
+Overall Stuff
+- Can use multiple languages
+- Will be hosted on server
+
+Hackathon
+- Works best with concrete tasks
+
+API (Swetali)
+- Responsible for most of the back end
+- Script for pulling data from gmail API
+- Creating database to store data (Work with Matt)
+- Use SQLite database??
+
+Stats
+- Work with API team to develop SQL select queries for pulling data
+- Perform natural language functions according to literature
+- Spit out a table that can be easily used for data visualization team
+
+
+Graphic design
+- Begin creating lookbook for UI/UX of the android app
+
+App development
+- Learn java / other frameworks needed to create application
+- Focus mainly on android app development (can do website on the side)
+
